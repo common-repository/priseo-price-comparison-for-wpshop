@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Stats your prices\n"
+"POT-Creation-Date: 2013-04-29 10:47+0100\n"
+"PO-Revision-Date: 2013-04-29 10:57+0100\n"
+"Last-Translator: Equipe Eoxia <dev@eoxia.com>\n"
+"Language-Team: Developpement Eoxia <dev@eoxia.com>\n"
+"Language: FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../syp-client.php:61 ../syp-client.php:122
+#: ../utils/librairies/ajax.class.php:285
+#: ../utils/librairies/ajax.class.php:286
+msgid "Publish"
+msgstr "Publier"
+
+#: ../syp-client.php:229 ../syp-client.php:239 ../syp-client.php:240
+#: ../syp-client.php:320
+msgid "Priseo"
+msgstr "Priseo"
+
+#: ../syp-client.php:254
+msgid "Priseo Options"
+msgstr "Options priseo"
+
+#: ../syp-client.php:280 ../utils/librairies/display.class.php:212
+#: ../utils/librairies/init.class.php:27
+msgid "Synchronize"
+msgstr "Synchroniser"
+
+#: ../syp-client.php:281
+msgid ""
+"<p id=\"link_form_text\">Fill all required fields to enable synchronization "
+"with <a href=\""
+msgstr ""
+"<p id=\"link_form_text\">Remplissez tous les champs pour activer la "
+"synchronisation avec <a href=\""
+
+#: ../syp-client.php:289 ../utils/librairies/init.class.php:26
+msgid "Change account"
+msgstr "Changez de compte"
+
+#: ../syp-client.php:290
+msgid "<p id=\"link_form_text\">Current account : "
+msgstr "<p id=\"link_form_text\">Compte connecté : "
+
+#: ../syp-client.php:295
+msgid "Login Priseo"
+msgstr "Identifiant Priseo"
+
+#: ../syp-client.php:296
+msgid "Password"
+msgstr "Mot de passe"
+
+#: ../templates/template_elements.tpl.php:13
+msgid "Enter your barcode"
+msgstr "Entrez le code barre"
+
+#: ../templates/template_elements.tpl.php:24
+msgid "Search"
+msgstr "Rechercher"
+
+#: ../templates/template_elements.tpl.php:36
+msgid "Search updates"
+msgstr "Rechercher les mises à jour"
+
+#: ../templates/template_elements.tpl.php:48
+msgid "Import"
+msgstr "Import"
+
+#: ../templates/template_elements.tpl.php:59
+msgid " Enable automatic update."
+msgstr "Activer les mises à jour automatique"
+
+#: ../templates/template_elements.tpl.php:71
+msgid "Search for prices"
+msgstr "Rechercher les prix"
+
+#: ../templates/template_elements.tpl.php:83
+msgid "Sellers prices"
+msgstr "Prix des autres vendeurs"
+
+#: ../templates/template_elements.tpl.php:87
+msgid "Sellers"
+msgstr "Vendeurs"
+
+#: ../templates/template_elements.tpl.php:88
+msgid "Prices"
+msgstr "Prix"
+
+#: ../templates/template_elements.tpl.php:89
+msgid "Dates"
+msgstr "Dates"
+
+#: ../utils/librairies/ajax.class.php:38
+msgid "Product name : "
+msgstr "Nom du produit:"
+
+#: ../utils/librairies/ajax.class.php:43
+msgid "Product description : "
+msgstr "Description du produit:"
+
+#: ../utils/librairies/ajax.class.php:48
+msgid "Product weight : "
+msgstr "Poids du produit:"
+
+#: ../utils/librairies/ajax.class.php:53
+msgid "Product height : "
+msgstr "Hauteur du produit:"
+
+#: ../utils/librairies/ajax.class.php:58
+msgid "Product width : "
+msgstr "Longueur du produit:"
+
+#: ../utils/librairies/ajax.class.php:110
+msgid "Update found !"
+msgstr "Mise à jour trouvée"
+
+#: ../utils/librairies/display.class.php:115
+msgid "Priseo Dashboard"
+msgstr "Tableau de bord de Priseo"
+
+#: ../utils/librairies/display.class.php:124
+msgid "You are a "
+msgstr "Vous êtes un"
+
+#: ../utils/librairies/display.class.php:124
+msgid " user."
+msgstr "utilisateur."
+
+#: ../utils/librairies/display.class.php:127
+msgid "Get PREMIUM account !"
+msgstr "Devenez PREMIUM!"
+
+#: ../utils/librairies/display.class.php:128
+msgid ""
+"Unlock products auto update, multiple  parallels synchronization and more !"
+msgstr ""
+"Permet la mise à jour automatique des produits, la mise à jour en masse et "
+"bien plus!"
+
+#: ../utils/librairies/display.class.php:132
+msgid "Synchronize all"
+msgstr "Synchroniser tout"
+
+#: ../utils/librairies/display.class.php:133
+msgid "Search all updates"
+msgstr "Rechercher toutes les mises à jour"
+
+#: ../utils/librairies/display.class.php:151
+msgid "All products"
+msgstr "Tous les produits"
+
+#: ../utils/librairies/display.class.php:154
+msgid "Product"
+msgstr "Produit"
+
+#: ../utils/librairies/display.class.php:155
+msgid "Barcode"
+msgstr "Code barre"
+
+#: ../utils/librairies/display.class.php:156
+msgid "State"
+msgstr "&Eacute;tat"
+
+#: ../utils/librairies/display.class.php:157
+msgid "Last Update"
+msgstr "Dernière mise à jour"
+
+#: ../utils/librairies/display.class.php:158
+msgid "Action"
+msgstr "Action"
+
+#: ../utils/librairies/display.class.php:159
+msgid "Auto Update"
+msgstr "Mise à jour automatique"
+
+#: ../utils/librairies/display.class.php:182
+msgid "Unknown"
+msgstr "Inconnu"
+
+#: ../utils/librairies/display.class.php:199
+#: ../utils/librairies/init.class.php:32
+msgid "Synchronized"
+msgstr "Synchronisé"
+
+#: ../utils/librairies/display.class.php:201
+msgid "Local"
+msgstr "Local"
+
+#: ../utils/librairies/display.class.php:210
+msgid "Search update"
+msgstr "Rechercher une mise à jour"
+
+#: ../utils/librairies/init.class.php:20
+msgid "Go to"
+msgstr "Aller à"
+
+#: ../utils/librairies/init.class.php:21
+msgid "No product found with barcode : "
+msgstr "Aucun produit trouvé avec ce code barre"
+
+#: ../utils/librairies/init.class.php:22
+msgid "No result found."
+msgstr "Aucun résultat trouvé"
+
+#: ../utils/librairies/init.class.php:23
+msgid "You already have a product with barcode : "
+msgstr "Vous avez déjà un produit avec ce code barre"
+
+#: ../utils/librairies/init.class.php:24
+msgid "No updates available."
+msgstr "Aucune mise à jour disponible"
+
+#: ../utils/librairies/init.class.php:25
+msgid "Please fill all required fields."
+msgstr "Merci de remplir tous les champs obligatoire"
+
+#: ../utils/librairies/init.class.php:28
+msgid "Your account was successfully linked with Priseo."
+msgstr "Votre compte à été correctement lié avec Priseo"
+
+#: ../utils/librairies/init.class.php:29
+msgid "Current account : "
+msgstr "Compte actuel:"
+
+#: ../utils/librairies/init.class.php:30
+msgid ""
+"Unable to link your account to Priseo. Please check your login/password and "
+"try again."
+msgstr ""
+"Impossible de lier votre compte avec Priseo. Merci de vérifier votre "
+"identifian et/ou mot de passe avant de réessayer."
+
+#: ../utils/librairies/init.class.php:31
+msgid "Fill all required fields to enable synchronization with <a href='"
+msgstr ""
+"Merci de remplir tous les champs obligatoire pour activer la synchronisation "
+"avec <a href='"
